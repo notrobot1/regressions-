@@ -40,7 +40,7 @@ def correct_data(row):
 ##################################
     row[8] = items[0][row[8]]
     row[9] = items[1][row[9]]
-    row[26] = items[2][row[26]]
+    row[26] = items[3][row[26]]
     # if row[27] == "N":
     #     row[27] = '-1'
     if row[24] == "N":
